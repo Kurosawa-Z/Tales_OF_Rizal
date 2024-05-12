@@ -1,0 +1,16 @@
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\bin\Debug\MainMenu.exe
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.AssemblyReference.cache
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.Form1.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.Properties.Resources.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.GenerateResource.cache
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.exe
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.pdb
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.UserControl1.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.UserControl2.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.UserControl3.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.UserControl4.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.UserControl5.resources
+C:\Users\Samricseilyn\OneDrive\Desktop\Ebook\MainMenu\MainMenu\MainMenu\MainMenu\obj\Debug\MainMenu.UserControl6.resources
